@@ -18,7 +18,7 @@ public class Oef91 extends JFrame{
      */
     public static void main(String[] args) {
         JFrame frame = new Oef91();
-        frame.setSize(300,300);
+        frame.setSize(500,500);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setContentPane(new oef91Paneel());
         frame.setVisible(true);
